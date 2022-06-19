@@ -2,7 +2,7 @@
 Micro to macro scaling in energy and economics 
 
 
-This repository contain the files (codes, documents, presentations) develped as a part of the micro to macro scaling studies at UT Austin (Energy Institute). 
+This repository contain the files (codes, documents, presentations) developed as a part of the micro to macro scaling studies at UT Austin (Energy Institute). 
 The study involves micro to macro scaling of energy and economics. The primary approach is building agent-based models where agents follow simples rules in 
 consuming energy/resource and take part in a simplistic economy. The initial agent-based models are based on Human and Nature Dynamics (HANDY) mdoel. The HANDY
 model is an ordinary differential equation (ODE) model [1].
